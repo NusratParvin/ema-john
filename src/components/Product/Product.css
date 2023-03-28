@@ -40,4 +40,5 @@
 }
 .btn-cart:hover{
     background-color: orange;
+    border: none;
 }
